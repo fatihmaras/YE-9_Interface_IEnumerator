@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\bin\Debug\net6.0\OOP-9_IEnumerators.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\bin\Debug\net6.0\OOP-9_IEnumerators.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\bin\Debug\net6.0\OOP-9_IEnumerators.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\bin\Debug\net6.0\OOP-9_IEnumerators.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\bin\Debug\net6.0\OOP-9_IEnumerators.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\refint\OOP-9_IEnumerators.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\OOP-9_IEnumerators.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-9_Interface_IEnumerator\OOP-9_IEnumerator\obj\Debug\net6.0\ref\OOP-9_IEnumerators.dll
